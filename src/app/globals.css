@@ -1,0 +1,11 @@
+/* globals.css */
+body {
+  background-image: url('https://aljanantravelandtours.com/wp-content/uploads/2018/12/1.png'); /* Replace with the actual URL of your image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  color: #fff; /* Optional: to ensure text is readable on the background */
+}
